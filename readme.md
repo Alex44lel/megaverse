@@ -1,8 +1,8 @@
-# Megaverse API Client🪐
+# Megaverse 🪐
 
 ## Overview ☄️
 
-This Python project includes the `MegaverseAPI` class, a client for interacting with the Megaverse API. It's designed to create and manage various astral objects in a virtual megaverse. 
+This Python project includes the `MegaverseAPI` class, for interacting with the Megaverse API. It's designed to create and manage various astral objects in a virtual megaverse. 
 
 ## Considerations ☄️
 
