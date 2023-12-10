@@ -6,7 +6,7 @@ This Python project includes the `MegaverseAPI` class, a client for interacting 
 
 ## Considerations ☄️
 
-I have tried to follow as many best practises as possible as I do not know the team standart requiremtns. As i want to adjust to the 3-4 hours timelimit, i have add as a todo to add unit testing.
+I have tried to follow as many best practises as possible as I do not know the team standard requiremtns. As I want to adjust to the 3-4 hours timelimit, I have add as a todo to add unit testing.
 
 ## TODO ☄️
 
