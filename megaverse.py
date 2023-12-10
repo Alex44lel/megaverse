@@ -195,7 +195,6 @@ class MegaverseAPI:
 
     def create_polyanet_cross(self) -> None:
         """Create a cross formation of Polyanets."""
-
         for i in range(11):
             if i == 5:
                 self.create_polyanet(i, i)
