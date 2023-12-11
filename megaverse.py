@@ -254,4 +254,6 @@ if __name__ == "__main__":
     config_path = "./config.json"
     megaverse_api = MegaverseAPI(config_path)
 
-    megaverse_api.create_crossmint_logo()
+    #Uncomment for testing
+    #megaverse_api.create_polyanet_cross()
+    #megaverse_api.create_crossmint_logo()
