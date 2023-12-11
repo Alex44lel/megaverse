@@ -14,6 +14,6 @@ Implement unit testing
 
 ## Installation ☄️
 
-To set up this project, clone the repository and install the required packages:
+To set up this project, clone the repository and install the required packages in requirements.txt
 
 
