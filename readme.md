@@ -2,7 +2,9 @@
 
 ## Overview ☄️
 
-This Python project includes the `MegaverseAPI` class, for interacting with the Megaverse API. It's designed to create and manage various astral objects in a virtual megaverse. 
+This Python project includes the `MegaverseAPI` class, for interacting with the Megaverse API. It's designed to create and manage various astral objects in a virtual megaverse.
+
+prueba
 
 ## Considerations ☄️
 
@@ -15,5 +17,3 @@ Implement unit testing
 ## Installation ☄️
 
 To set up this project, clone the repository and install the required packages in requirements.txt
-
-
